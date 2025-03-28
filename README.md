@@ -31,10 +31,3 @@ Got 100 Promoters, 50 Passives, and 25 Detractors? You'll get your NPS in second
 * Shows customer loyalty.
 * Helps you improve!
 
-**Contribute!**
-
-Found a bug? Want to add a feature? Fork this repo and send a pull request! Let's make this tool even better.
-
-**License**
-
-MIT License (Feel free to use it!)
